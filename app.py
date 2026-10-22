@@ -1,3 +1,4 @@
+# KR2: Gauzhaev
 import os
 import socket
 
